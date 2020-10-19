@@ -1,3 +1,4 @@
+//Written (in part) by David A.
 const gameContainer = document.getElementById("game");
 var score = 0;
 var topScore = JSON.parse(localStorage.getItem("topScore"));
