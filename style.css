@@ -1,0 +1,63 @@
+#game div {
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+div {
+  border: 1px solid black;
+
+}
+
+.orange.active {
+  background-color: orange;
+  
+}
+
+.blue.active {
+  background-color: blue;
+}
+
+.green.active {
+  background-color: green;
+}
+
+.red.active {
+  background-color: red;
+}
+
+.purple.active {
+  background-color: purple;
+}
+
+
+.orange.solve {
+  background-color: orange;
+  border-width: 5px;
+  border-color: gold;
+}
+
+.blue.solve {
+  background-color: blue;
+  border-width: 5px;
+  border-color: gold;
+}
+
+.green.solve {
+  background-color: green;
+  border-width: 5px;
+  border-color: gold;
+}
+
+.red.solve {
+  background-color: red;
+  border-width: 5px;
+  border-color: gold;
+}
+
+.purple.solve {
+  background-color: purple;
+  border-width: 5px;
+  border-color: gold;
+}
